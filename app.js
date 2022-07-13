@@ -1,1 +1,1 @@
-document.write("Hello World Bitch")
+document.write("Hello World Bitch 2")
