@@ -1,1 +1,1 @@
-document.write("Hello World Bitch 2 Bitch 1 Bitch 0 ZUUUUZZZZZ ZAZAZAZAZAZAZAZAZA")
+document.write("Hello World Bitch 2 Bitch 1 Bitch 0 ZUUUUZZZZZ ziz ziz ziz")
