@@ -21,3 +21,7 @@ body {
     padding-left:20px;
     padding-right:20px;
 }
+
+#pera:hover {
+    background-color: gray;
+}
